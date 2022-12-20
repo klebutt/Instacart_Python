@@ -1,5 +1,5 @@
 # Instacart_Python
-This repor contains Instacart grocery analysis conducted using Python. This was part of a CareerFoundry analytics course. 
+This repo contains Instacart grocery analysis conducted using Python. This was part of a CareerFoundry analytics course. 
 
 # Objective
 Conduct an analysis for an existing company, Instacart, an online grocery store that operates
